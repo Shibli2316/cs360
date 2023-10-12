@@ -1,0 +1,40 @@
+body{
+    line-height: 2;
+    text-align: center;
+}
+
+header  {
+  height: 460px;
+  background-color: lightcyan;
+
+}
+
+img{
+    margin-top: 50px;
+    height: 25px;
+}
+
+#top_quote{
+    position:relative;
+    left:160px;
+}
+
+#bottom_quote{
+    position:relative;
+    right:160px;
+    transform: rotateY(180deg);
+}
+
+h1{
+    margin:auto;
+    color:aqua;
+}
+
+h2{
+   color: darkturquoise;
+
+}
+
+
+
+
